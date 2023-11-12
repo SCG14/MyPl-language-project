@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="013223cb-3f49-49b5-a803-ba30430e8f30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prog7.mypl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1.mypl" beforeDir="false" afterPath="$PROJECT_DIR$/prog1.mypl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog2.mypl" beforeDir="false" afterPath="$PROJECT_DIR$/prog2.mypl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog3.mypl" beforeDir="false" afterPath="$PROJECT_DIR$/prog3.mypl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog4.mypl" beforeDir="false" afterPath="$PROJECT_DIR$/prog4.mypl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog5.mypl" beforeDir="false" afterPath="$PROJECT_DIR$/prog5.mypl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mypl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_runner.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test_runner.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2OLaANdotDufV2YNEjqS9d3Mpdf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/santi/project-SCG14/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\santi\project-SCG14\project" />
+      <recent name="\\wsl$\Ubuntu\home\santi\hw7-SCG14" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\santi\project-SCG14\project" />
+      <recent name="\\wsl$\Ubuntu\home\santi\project-SCG14\project\c-sharp-examples" />
+      <recent name="\\wsl$\Ubuntu\home\santi\hw7-SCG14\examples" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013223cb-3f49-49b5-a803-ba30430e8f30" name="Changes" comment="" />
+      <created>1681342171612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681342171612</updated>
+      <workItem from="1681342172737" duration="598000" />
+      <workItem from="1681416795637" duration="4628000" />
+      <workItem from="1681576720142" duration="13330000" />
+      <workItem from="1681770564330" duration="19333000" />
+      <workItem from="1681837846227" duration="743000" />
+      <workItem from="1681840311631" duration="3571000" />
+      <workItem from="1681845525620" duration="3663000" />
+      <workItem from="1681857065600" duration="17284000" />
+      <workItem from="1681921360121" duration="1836000" />
+      <workItem from="1681923613296" duration="2696000" />
+      <workItem from="1681932071403" duration="19233000" />
+      <workItem from="1682013213422" duration="3684000" />
+      <workItem from="1682029981003" duration="4494000" />
+      <workItem from="1682094321448" duration="2952000" />
+      <workItem from="1682357503965" duration="923000" />
+      <workItem from="1682739526445" duration="568000" />
+      <workItem from="1682742025251" duration="9959000" />
+      <workItem from="1682785110124" duration="12950000" />
+      <workItem from="1682811928188" duration="60000" />
+      <workItem from="1682830260215" duration="17000" />
+      <workItem from="1682961146622" duration="324000" />
+      <workItem from="1682981088297" duration="424000" />
+      <workItem from="1682982546677" duration="42000" />
+      <workItem from="1682982603470" duration="3730000" />
+      <workItem from="1683059076608" duration="672000" />
+      <workItem from="1683224123899" duration="1295000" />
+      <workItem from="1683394766769" duration="16196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

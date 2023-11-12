@@ -1,0 +1,31 @@
+
+#----------------------------------------------------------------------
+# BuiltIn Functions
+#----------------------------------------------------------------------
+
+void main() {
+  int n = 0
+  # tests console.write
+  print(n)
+  print("\n")
+  string s = "hello"
+  # tests length
+  print(length(s))
+  print("\n")
+  string t = "world"
+  # tests concat
+  string u = concat(s,t)
+  print(u)
+  print("\n")
+  # tests get
+  print(get(1, s))
+  print("\n")
+  # tests to_ functions
+  int i = 1
+  string x = to_string(i)
+  print(x)
+  print("\n")
+  i = to_int(x)
+  print(x)
+  print("\n")
+}

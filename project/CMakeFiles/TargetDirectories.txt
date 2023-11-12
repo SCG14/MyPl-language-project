@@ -1,0 +1,3 @@
+/home/santi/project-SCG14/project/CMakeFiles/mypl.dir
+/home/santi/project-SCG14/project/CMakeFiles/edit_cache.dir
+/home/santi/project-SCG14/project/CMakeFiles/rebuild_cache.dir

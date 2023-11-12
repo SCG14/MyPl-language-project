@@ -1,0 +1,15 @@
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/bin/Debug/net7.0/c#_prog7
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/bin/Debug/net7.0/c#_prog7.deps.json
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/bin/Debug/net7.0/c#_prog7.runtimeconfig.json
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/bin/Debug/net7.0/c#_prog7.dll
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/bin/Debug/net7.0/c#_prog7.pdb
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.csproj.AssemblyReference.cache
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.GeneratedMSBuildEditorConfig.editorconfig
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.AssemblyInfoInputs.cache
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.AssemblyInfo.cs
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.csproj.CoreCompileInputs.cache
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.dll
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/refint/c#_prog7.dll
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.pdb
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/c#_prog7.genruntimeconfig.cache
+/home/santi/project-SCG14/project/C#TestOutputs/c#_prog7/obj/Debug/net7.0/ref/c#_prog7.dll

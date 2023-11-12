@@ -1,0 +1,34 @@
+
+#----------------------------------------------------------------------
+# Looping/If Functions
+#----------------------------------------------------------------------
+
+void main() {
+    int x = 10
+    if (x == 10) {
+        print("x is equal to 10 \n")
+    }
+
+    array int arr = new int[5]
+    for (int i = 0; i < 5; i = i + 1) {
+        arr[i] = i * 2
+    }
+
+    int j = 0
+    while (j < 5) {
+        print("arr[")
+        print(j)
+        print("] = ")
+        print(arr[j])
+        print("\n")
+        j = j + 1
+    }
+
+    if (x > 5) {
+        print("x is greater than 5 \n")
+    } elseif (x < 5) {
+       print("x is less than 5 \n")
+    } else {
+       print("x is equal to 5 \n")
+    }
+}
